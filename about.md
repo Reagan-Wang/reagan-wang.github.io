@@ -4,8 +4,8 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Poppy and Ian](/assets/aboutme.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
+Hello! I'm happy to announce that GrimmPop has exclusively licensed the technology behind *Playpen* to Mythic Quest Studios. We look forward to bringing the cutting-edge technology of *Playpen* into *Mythic Quest*!
 
 If you're interested in what I can offer your company, please contact me!
