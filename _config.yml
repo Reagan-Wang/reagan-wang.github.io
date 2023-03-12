@@ -1,14 +1,13 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Poppy Li
+email: poppy@mqs.com
 description: > # keep this and put description below
-  Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-# If you want to include twitter, remove # on next line and set username
-# twitter_username: jekyllrb
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+  Technical and Creative Directory
+url: "https://gamingportfolio.github.io" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/poppyli"
+github_username: poppyli
+twitter_username: poppylight
+footer_text: "This is a parody/sample site for the character from the show <i>Mythic Quest</i>. This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
 markdown: kramdown
