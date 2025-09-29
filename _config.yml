@@ -1,13 +1,12 @@
 # Site settings
-title: Poppy Li
-email: poppy@mqs.com
+title: Reagan Wang
+email: reaganguan@gmail.com
 description: > # keep this and put description below
-  Technical and Creative Director
-url: "https://gamingportfolio.github.io" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/poppyli.fake"
-github_username: poppyli_fake
-twitter_username: poppyli_fake
-footer_text: "This is a parody site for the character from the show <i>Mythic Quest</i>. In no way do I claim any copyright. This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+  Technical Designer
+url: "https://monkeyplato.github.io" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/reagan-wang"
+github_username: Reagan-Wang
+footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
 markdown: kramdown
