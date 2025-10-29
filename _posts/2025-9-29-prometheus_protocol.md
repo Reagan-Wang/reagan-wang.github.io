@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Prometheus Protocol"
-summary: "Personal Project"
+summary: "Personal Project...so everything"
 date:   2025-9-29 12:27:30
-preview: /assets/postpreview.png
+preview: /assets/pp_screenshot_editor_cropped.png
 ---
 
 |Software            | Godot Engine, Reaper, FMOD     |

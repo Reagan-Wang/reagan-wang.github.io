@@ -3,7 +3,7 @@ layout: post
 title:  "Steel Dominion"
 summary: "Engineer"
 date:   2025-9-29 12:27:30
-preview: /assets/postpreview.png
+preview: /assets/sd_screenshot_gameplay.png
 ---
 
 |Software | Unreal Engine 5    |
