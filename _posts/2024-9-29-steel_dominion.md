@@ -2,7 +2,7 @@
 layout: post
 title:  "Steel Dominion"
 summary: "Engineer"
-date:   2025-9-29 12:27:30
+date:   2024-9-29 12:27:30
 preview: /assets/sd_screenshot_gameplay.png
 ---
 
