@@ -3,7 +3,7 @@ layout: post
 title:  "Glorgo's Microplastics Mine"
 summary: "Engineering"
 date:   2025-9-29 12:27:30
-preview: /assets/pp_screenshot_editor_cropped.png
+preview: /assets/post_preview.png
 ---
 
 |Software            | Unity, JetBrains Rider     |
